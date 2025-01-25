@@ -23,26 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-a-post-with-images",
+        },{id: "post-视觉大模型一无是处",
       
-        title: "a post with images",
+        title: "视觉大模型一无是处",
       
-      description: "this is what included images could look like",
+      description: "蚂蚁海星 蚂蚁海星自动抬杠机 2023年06月29日 21:15 广东",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
+          window.location.href = "/blog/2023/vision-cn/";
         
       },
     },{id: "news-a-simple-inline-announcement",
@@ -53,7 +42,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%7A%68%75%6E%73%75%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%7A%68%75%6E%73%75%6E %E3%81%82 %67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-facebook',
@@ -75,6 +64,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=Y-3iZ9EAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-wechat_qr',
+        title: 'Wechat_qr',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
