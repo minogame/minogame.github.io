@@ -23,7 +23,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-vision-foundation-models-are-utterly-useless-deepseek-translated-version",
+        },{id: "post-compilation-of-nanshan-jokes-deepseek-translated-version",
+      
+        title: "Compilation of Nanshan Jokes (DeepSeek Translated Version)",
+      
+      description: "Mai-Haishin · March 30, 2025, 21:57 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/jokes-en/";
+        
+      },
+    },{id: "post-南山笑话集锦",
+      
+        title: "南山笑话集锦",
+      
+      description: "蚂蚁海星 · 2025年03月30日 21:57・广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/jokes-cn/";
+        
+      },
+    },{id: "post-when-your-model-is-as-frustrating-as-your-life-deepseek-translated-version",
+      
+        title: "When Your Model is as Frustrating as Your Life (DeepSeek Translated Version)",
+      
+      description: "Mai-Haishin · September 6, 2023, 19:33 · Beijing",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/model-en/";
+        
+      },
+    },{id: "post-当你的模型与你的人生一样糟心",
+      
+        title: "当你的模型与你的人生一样糟心",
+      
+      description: "蚂蚁海星 · 2023年09月06日 19:33・北京",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/model-cn/";
+        
+      },
+    },{id: "post-vision-foundation-models-are-utterly-useless-deepseek-translated-version",
       
         title: "Vision Foundation Models Are Utterly Useless (DeepSeek Translated Version)",
       
@@ -43,6 +87,50 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/vision-cn/";
+        
+      },
+    },{id: "post-a-sarcastic-take-on-a-company-0-3-parsecs-away-deepseek-translated-version",
+      
+        title: "A Sarcastic Take on a Company 0.3 Parsecs Away (DeepSeek Translated Version)",
+      
+      description: "Mai-Haishin · June 26, 2023, 13:32 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/lightyear-en/";
+        
+      },
+    },{id: "post-冷嘲热讽一下某0-3秒差距之外的公司",
+      
+        title: "冷嘲热讽一下某0.3秒差距之外的公司",
+      
+      description: "蚂蚁海星 · 2023年06月26日 13:32 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/lightyear-cn/";
+        
+      },
+    },{id: "post-so-just-how-bad-is-this-quot-interim-measures-for-the-management-of-generative-artificial-intelligence-services-draft-for-comment-quot-deepseek-translated-version",
+      
+        title: "So just how bad is this &quot;Interim Measures for the Management of Generative...",
+      
+      description: "Mai-Haishin · May 8, 2023, 20:05 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/comments-en/";
+        
+      },
+    },{id: "post-所以这次的-生成式人工智能服务管理办法-征求意见稿-到底有多糟糕",
+      
+        title: "所以这次的《生成式人工智能服务管理办法（征求意见稿）》到底有多糟糕？",
+      
+      description: "蚂蚁海星 · 2023年05月08日 20:05 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/comments-cn/";
         
       },
     },{id: "post-attempting-to-alleviate-some-of-the-anxiety-brought-by-llms-deepseek-translated-version",
