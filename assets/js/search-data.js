@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-compilation-of-nanshan-jokes-deepseek-translated-version",
+        },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
       
-        title: "Compilation of Nanshan Jokes (DeepSeek Translated Version)",
+        title: "Nanshan Jokes Collection (Gemini 2.5 Pro Translated Version)",
       
       description: "Mai-Haishin · March 30, 2025, 21:57 · Guangdong",
       section: "Posts",
@@ -45,9 +45,31 @@ ninja.data = [{
           window.location.href = "/blog/2025/jokes-cn/";
         
       },
-    },{id: "post-when-your-model-is-as-frustrating-as-your-life-deepseek-translated-version",
+    },{id: "post-a-metaphysical-look-at-sparsely-gated-mixture-of-experts-gemini-2-5-pro-translated-version",
       
-        title: "When Your Model is as Frustrating as Your Life (DeepSeek Translated Version)",
+        title: "A Metaphysical Look at Sparsely-Gated Mixture of Experts (Gemini 2.5 Pro Translated Version)...",
+      
+      description: "Mai-Haishin · September 07, 2023 19:53 · Jiangsu",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/moe-en/";
+        
+      },
+    },{id: "post-形而上地看sparsely-gated-mixture-of-experts",
+      
+        title: "形而上地看Sparsely-Gated Mixture of Experts",
+      
+      description: "蚂蚁海星 · 2023年09月07日 19:53 · 江苏",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/moe-cn/";
+        
+      },
+    },{id: "post-when-your-model-sucks-as-much-as-your-life-gemini-2-5-pro-translated-version",
+      
+        title: "When Your Model Sucks as Much as Your Life (Gemini 2.5 Pro Translated...",
       
       description: "Mai-Haishin · September 6, 2023, 19:33 · Beijing",
       section: "Posts",
@@ -67,9 +89,9 @@ ninja.data = [{
           window.location.href = "/blog/2023/model-cn/";
         
       },
-    },{id: "post-vision-foundation-models-are-utterly-useless-deepseek-translated-version",
+    },{id: "post-vision-large-models-are-utterly-useless-gemini-2-5-pro-translated-version",
       
-        title: "Vision Foundation Models Are Utterly Useless (DeepSeek Translated Version)",
+        title: "Vision Large Models Are Utterly Useless (Gemini 2.5 Pro Translated Version)",
       
       description: "Mai-Haishin · June 29, 2023, 21:15 · Guangdong",
       section: "Posts",
@@ -89,9 +111,9 @@ ninja.data = [{
           window.location.href = "/blog/2023/vision-cn/";
         
       },
-    },{id: "post-a-sarcastic-take-on-a-company-0-3-parsecs-away-deepseek-translated-version",
+    },{id: "post-scoffing-at-a-certain-company-0-3-parsecs-away-gemini-2-5-pro-translated-version",
       
-        title: "A Sarcastic Take on a Company 0.3 Parsecs Away (DeepSeek Translated Version)",
+        title: "Scoffing at a Certain Company 0.3 Parsecs Away (Gemini 2.5 Pro Translated Version)...",
       
       description: "Mai-Haishin · June 26, 2023, 13:32 · Guangdong",
       section: "Posts",
@@ -111,9 +133,9 @@ ninja.data = [{
           window.location.href = "/blog/2023/lightyear-cn/";
         
       },
-    },{id: "post-so-just-how-bad-is-this-quot-interim-measures-for-the-management-of-generative-artificial-intelligence-services-draft-for-comment-quot-deepseek-translated-version",
+    },{id: "post-so-just-how-bad-is-this-quot-administrative-measures-for-generative-artificial-intelligence-services-draft-for-solicitation-of-comments-quot-gemini-2-5-pro-translated-version",
       
-        title: "So just how bad is this &quot;Interim Measures for the Management of Generative...",
+        title: "So, Just How Bad is This &quot;Administrative Measures for Generative Artificial Intelligence Services...",
       
       description: "Mai-Haishin · May 8, 2023, 20:05 · Guangdong",
       section: "Posts",
@@ -133,9 +155,9 @@ ninja.data = [{
           window.location.href = "/blog/2023/comments-cn/";
         
       },
-    },{id: "post-attempting-to-alleviate-some-of-the-anxiety-brought-by-llms-deepseek-translated-version",
+    },{id: "post-attempting-to-alleviate-some-of-the-anxiety-brought-by-llms-gemini-2-5-pro-translated-version",
       
-        title: "Attempting to Alleviate Some of the Anxiety Brought by LLMs (DeepSeek Translated Version)...",
+        title: "Attempting to Alleviate Some of the Anxiety Brought by LLMs (Gemini 2.5 Pro...",
       
       description: "Mai-Haishin · April 24, 2023, 21:04 · Guangdong",
       section: "Posts",
@@ -155,7 +177,7 @@ ninja.data = [{
           window.location.href = "/blog/2023/anxiety-cn/";
         
       },
-    },{id: "post-chinese-academic-institutions-are-polluting-the-international-academic-community-with-low-quality-peer-reviews-deepseek-translated-version",
+    },{id: "post-chinese-academic-institutions-are-polluting-the-international-academic-community-with-low-quality-peer-reviews-gemini-2-5-pro-translated-version",
       
         title: "Chinese Academic Institutions Are Polluting the International Academic Community with Low-Quality Peer Reviews...",
       
@@ -179,6 +201,9 @@ ninja.data = [{
       },
     },{id: "news-i-joined-the-tohoku-nlp-group-as-a-specially-appointed-associate-professor",
           title: 'I joined the Tohoku NLP Group as a specially appointed associate professor.',
+          description: "",
+          section: "News",},{id: "news-our-paper-mitigating-visual-forgetting-via-take-along-visual-conditioning-for-multi-modal-long-cot-reasoning-has-been-accepted-into-acl-2025-main-conference",
+          title: 'Our paper Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT...',
           description: "",
           section: "News",},{
         id: 'social-email',
