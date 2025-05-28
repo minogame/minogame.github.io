@@ -26,10 +26,15 @@ Specially appointed associate professor (a.k.a. non-tenured casual laborer) at L
 4. Non-Linguistic Large Language Models (Code & Symbolic Reasoning, Latent Space Reasoning)
 5. Neuroscience and Large Language Models (Biomimetic Interpretability)
 
-Received Ph.D from [Graduate School of Information Sciences, Tohoku University](https://www.is.tohoku.ac.jp/en/). Worked as a senior reseacher at Tencent and Baidu in last 4 years before joining the Tohoku NLP Group, having great passion in ridiculing these two companies.
+Received Ph.D from [Graduate School of Information Sciences, Tohoku University](https://www.is.tohoku.ac.jp/en/). Worked as a senior researcher at Tencent and Baidu in last 4 years before joining the Tohoku NLP Group, having great passion in ridiculing these two companies. Had experience in the following topics:
 
-Blog storage.
+1. Robust representation learning, adversarial attack and defense.
+2. Generative model, _e.g._, VAE, GAN and diffusion.
+3. Tensor decomposition, tensor network.
+4. Contrastive learning, both unimodal and multimodal.
+5. Heterozygote of arbitrary topics above.
 
+This site is my past blog storage.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

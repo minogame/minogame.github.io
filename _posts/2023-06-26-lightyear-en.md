@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Sarcastic Take on a Company 0.3 Parsecs Away (DeepSeek Translated Version)
+title: Scoffing at a Certain Company 0.3 Parsecs Away (Gemini 2.5 Pro Translated Version)
 date: 2023-06-26 13:32
 description: Mai-Haishin · June 26, 2023, 13:32 · Guangdong
 tags: misc
@@ -8,31 +8,20 @@ disqus_comments: true
 categories: English
 ---
 
-First, let’s clarify three things:
+First, three clarifications:
 
-"0.3" is an approximation—the precise definition of a parsec is 648,000/π astronomical units (fun fact).
+0.3 is an approximate number. The precise definition of a parsec is 648,000/π astronomical units (a bit of trivia).
 
-Depression is no joke. As someone who has struggled with it, if this illness is real, I wish it were fake; if it’s fake, then I hope it’s real.
+Depression is not good. As someone who has struggled with depression, if this illness (being referred to) is real, I wish it were fake. If it's fake, then I wish it were real (implying a wish for deserved comeuppance).
 
-There’s no particular stake here. The reason for the sarcasm is simply because this company once evaluated me as "not outstanding enough." In the spirit of reciprocity, I figured I’d return the favor with a similar assessment.
+There are no particular stakes involved. The reason I want to scoff is purely because this company previously judged me as "not outstanding enough." Based on the principle of reciprocity, I must offer a similar evaluation.
 
-Honestly, I think everyone saw this day coming for the company—just not this soon. Burning through $50 million one bill at a time (literally) should’ve taken at least two years. Of course, I wouldn’t dare openly claim that the company is completely doomed, but following the Chinese cultural notion of "not boasting about strength or plotting survival," a company that’s suffered such setbacks will likely find it incredibly hard to rebuild its (already questionable) reputation. I just feel bad for the algorithm engineers who’ve already joined.
+Anyway, I guess everyone expected this company would see this day, though I didn't expect it to be this soon. Burning through 50 million dollars, even if physically setting the bills on fire one by one, should take at least two years. Of course, I wouldn't dare to publicly slander that this company has completely collapsed and disappeared. However, in line with the Chinese cultural concept of "one should neither be reckless in valor nor merely aim for survival" (implying perhaps that after such a display of recklessness, mere survival is the only concern, or that they shouldn't have been so bold if they couldn't sustain it), after a company experiences such a setback, restoring its (perhaps never very good) reputation in the future will likely be exceedingly difficult. It's just a pity for those algorithm guys who already joined.
 
-Truth be told, I wasn’t particularly motivated to write this, but after skimming through a certain community where the average annual income is supposedly a million yuan, I noticed no one had clearly articulated the company’s core issues. So, out of a sincere desire to save the domestic general AI startup scene, I’ll share my two cents.
+Actually, my desire to write this article wasn't initially very strong. But I browsed through the comments on a certain community where the average annual income is supposedly in the millions, and found that no one had clearly explained the problems with this company. Out of a noble intention to save the domestic general-purpose artificial intelligence startup scene, I'll share my views.
 
-The problem is simple: they tried to emulate OpenAI—not the OpenAI of a few years ago, struggling on the brink of collapse, mocked by critics yet persistently producing high academic value—but the OpenAI already standing at the pinnacle of success, ready to monetize. They even reduced the latter’s success to a formula:
-Success = Large Language Model = Hardware Infrastructure + Software Architecture + Top-Tier Algorithms + Massive Data.
+The problem is actually very simple: they benchmarked themselves against OpenAI. Not the OpenAI from a few years ago that was struggling on the brink, scoffed at by others, yet persistently produced high academic value. Instead, they only wanted to benchmark against the OpenAI that was already on the cusp of success, about to monetize commercially. They even turned the latter into a formula: Success = Large Language Model = Hardware Infrastructure + Software Architecture + Top-tier Algorithms + Massive Data. Then they built a team and executed work according to this formula: frantically buying "Old Huang's" (Jensen Huang of Nvidia) primary industrial waste (i.e., GPUs) + recruiting architecture teams (widely considered) of little contribution + unrealistically high hiring standards (I even suspect that to satisfy the boss's preferences, their team would rather not hire anyone than hire too many people) + hired algorithm engineers having to wrangle data themselves (my guess, please correct me if you have information).
 
-Then, they built their team and executed accordingly:
+Is there a problem with doing this? From a capital perspective, probably not. But from a skeptical viewpoint, this success formula is just a very naive induction from the conclusions of OpenAI alone; it's not a certainty. Actually, if you ask me, perhaps the most important item in this success formula, Augustine's Divine Illumination, was directly overlooked. Or, to put it colloquially, this company did everything right, except they didn't invite a high priest to consecrate it. I know you're all materialists, and something like "divine illumination" sounds unreliable. However, through its long period of struggle and academic output, OpenAI may indeed have formed such a culture internally, akin to divine illumination, allowing every new "Cai Kun" (a popular celebrity's name, used humorously here to mean "newbie" or "rookie") algorithm student to generate wisdom under its radiance. This accumulated wisdom ultimately produced the miracle that is perhaps closest to general artificial intelligence today (the product closest to money, nothing to be ashamed of).
 
-Frantically buying Nvidia’s entry-level industrial junk.
-
-Recruiting (widely regarded as) low-impact architecture teams.
-
-Unrealistically high hiring standards (I suspect they’d rather leave positions unfilled than risk hiring someone the boss might dislike).
-
-Tasking their algorithms team with manually scraping data (just a guess—feel free to correct me if you have insider info).
-
-Is there anything wrong with this approach? From a capital perspective, probably not. But from a skeptic’s view, this "success formula" is a naive induction drawn solely from OpenAI’s outcome—hardly a certainty. In fact, if you ask me, the most critical element in this formula, what Augustine called "Divine illumination," was completely overlooked. Or, in layman’s terms, the company did everything right except hiring a grand mage to bless the endeavor. I know you’re all materialists, and "divine illumination" sounds like nonsense, but during its long struggle and academic output, OpenAI likely cultivated an internal culture akin to this "divine light." Under its glow, even the greenest algorithm newbies could gain wisdom, and the collective crystallization of that wisdom ultimately birthed what might be today’s closest miracle to AGI (or at least the closest to making money—no shame in that).
-
-One last clarification: The cover image, with its "light," "festive vibe," and "otherworldly" utopian feel, was generated by a certain two-month-old large model, following the same logic as donkey meat火烧 (驴肉火烧).
+Finally, one more clarification: the cover image, which has "light," a "festive New Year atmosphere," and an "out-of-this-world" (Shangri-La/utopia) feel, was generated by a large model that is "two months different from the one with the same logic as the 'donkey meat burger' model." (This is a very specific, possibly metaphorical or inside joke reference, implying a particular kind or quality of AI generation).
