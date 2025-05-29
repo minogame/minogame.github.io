@@ -56,6 +56,116 @@ ninja.data = [{
           window.location.href = "/blog/2025/jokes-cn/";
         
       },
+    },{id: "post-some-stray-thoughts-after-leaving-the-large-model-industry-gemini-2-5-pro-translated-version",
+      
+        title: "Some Stray Thoughts After Leaving the Large Model Industry (Gemini 2.5 Pro Translated...",
+      
+      description: "Mai-Haishin · March 30, 2025 04:23 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/leave-en/";
+        
+      },
+    },{id: "post-离开大模型业界后的一点杂念",
+      
+        title: "离开大模型业界后的一点杂念",
+      
+      description: "蚂蚁海星 · 2025年03月30日 04:23 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/leave-cn/";
+        
+      },
+    },{id: "post-large-models-and-coin-minting-continued-gemini-2-5-pro-translated-version",
+      
+        title: "Large Models and Coin Minting, Continued (Gemini 2.5 Pro Translated Version)",
+      
+      description: "Mai-Haishin · March 30, 2025 04:23 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/coinb-en/";
+        
+      },
+    },{id: "post-大模型与铸币-再",
+      
+        title: "大模型与铸币・再",
+      
+      description: "蚂蚁海星 · 2025年03月30日 04:23 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/coinb-cn/";
+        
+      },
+    },{id: "post-large-models-and-coin-minting",
+      
+        title: "Large Models and Coin Minting",
+      
+      description: "Mai-Haishin · January 05, 2025 22:05 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/coin-en/";
+        
+      },
+    },{id: "post-大模型与铸币",
+      
+        title: "大模型与铸币",
+      
+      description: "蚂蚁海星 · 2025年01月05日 22:05 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/coin-cn/";
+        
+      },
+    },{id: "post-what-the-heck-is-tom-schaul-39-s-socratic-learning-even-talking-about",
+      
+        title: "What the Heck is Tom Schaul&#39;s SOCRATIC LEARNING Even Talking About?",
+      
+      description: "Mai-Haishin · December 25, 2024 18:51 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/socratic-en/";
+        
+      },
+    },{id: "post-汤姆-绍尔的苏格拉底式学习-socratic-learning-讲的是什么牛子玩意",
+      
+        title: "汤姆・绍尔的苏格拉底式学习（SOCRATIC LEARNING）讲的是什么牛子玩意",
+      
+      description: "蚂蚁海星 · 2024年12月25日 18:51 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/socratic-cn/";
+        
+      },
+    },{id: "post-large-models-are-just-another-quot-converting-rice-paddies-to-mulberry-fields-quot-gemini-2-5-pro-translated-version",
+      
+        title: "Large Models Are Just Another &quot;Converting Rice Paddies to Mulberry Fields&quot; (Gemini 2.5...",
+      
+      description: "Mai-Haishin · November 13, 2024 20:38 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/ricetomulberry-en/";
+        
+      },
+    },{id: "post-大模型无非就是另一场改稻为桑罢了",
+      
+        title: "大模型无非就是另一场改稻为桑罢了",
+      
+      description: "蚂蚁海星 · 2024年11月13日 20:38 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/ricetomulberry-cn/";
+        
+      },
     },{id: "post-审稿cvpr而致的伤痕文学-没落的顶会与空虚的文章",
       
         title: "审稿CVPR而致的伤痕文学：没落的顶会与空虚的文章",
