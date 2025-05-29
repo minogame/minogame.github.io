@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/2024-01-19-cvpr-en/";
-        
-      },
-    },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
+        },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
       
         title: "Nanshan Jokes Collection (Gemini 2.5 Pro Translated Version)",
       
@@ -164,6 +153,61 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/ricetomulberry-cn/";
+        
+      },
+    },{id: "post-a-useless-collection-of-coding-questions-for-large-model-interviews-part-1-gemini-2-5-pro-translated-version",
+      
+        title: "A Useless Collection of Coding Questions for Large Model Interviews (Part 1) (Gemini...",
+      
+      description: "Mai-Haishin · October 31, 2024 04:05 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/coding1-en/";
+        
+      },
+    },{id: "post-没有用的大模型面试coding题集-一",
+      
+        title: "没有用的大模型面试coding题集（一）",
+      
+      description: "蚂蚁海星 · 2024年10月31日 04:05 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/coding1-cn/";
+        
+      },
+    },{id: "post-interpretations-and-reflections-on-ai-alignment-gemini-2-5-pro-translated-version",
+      
+        title: "Interpretations and Reflections on AI Alignment (Gemini 2.5 Pro Translated Version)",
+      
+      description: "Mai-Haishin · February 21, 2024 19:32 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/align-en/";
+        
+      },
+    },{id: "post-对于ai对齐的诠释与思考",
+      
+        title: "对于AI对齐的诠释与思考",
+      
+      description: "蚂蚁海星 · 2024年02月21日 19:32 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/align-cn/";
+        
+      },
+    },{id: "post-scar-literature-from-reviewing-cvpr-the-decline-of-top-conferences-and-the-emptiness-of-papers-gemini-2-5-pro-translated-version",
+      
+        title: "Scar Literature from Reviewing CVPR - The Decline of Top Conferences and the...",
+      
+      description: "Mai-Haishin · January 19, 2024 18:57・Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/cvpr-en/";
         
       },
     },{id: "post-审稿cvpr而致的伤痕文学-没落的顶会与空虚的文章",
