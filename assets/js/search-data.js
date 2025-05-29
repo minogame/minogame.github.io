@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2024-01-19-cvpr-en/";
+        
+      },
+    },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
       
         title: "Nanshan Jokes Collection (Gemini 2.5 Pro Translated Version)",
       
@@ -43,6 +54,39 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/jokes-cn/";
+        
+      },
+    },{id: "post-审稿cvpr而致的伤痕文学-没落的顶会与空虚的文章",
+      
+        title: "审稿CVPR而致的伤痕文学：没落的顶会与空虚的文章",
+      
+      description: "蚂蚁海星 · 2024年01月19日 18:57・广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/cvpr-cn/";
+        
+      },
+    },{id: "post-what-kind-of-ai-articles-are-good-articles-gemini-2-5-pro-translated-version",
+      
+        title: "What Kind of AI Articles Are Good Articles? (Gemini 2.5 Pro Translated Version)...",
+      
+      description: "Mai-Haishin · December 31, 2023, 00:11 · HongKong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/goodarticle-en/";
+        
+      },
+    },{id: "post-ai方向什么样的文章是好文章",
+      
+        title: "AI方向什么样的文章是好文章？",
+      
+      description: "蚂蚁海星 · 2023年12月31日 00:11・中国香港",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/goodarticle-cn/";
         
       },
     },{id: "post-a-metaphysical-look-at-sparsely-gated-mixture-of-experts-gemini-2-5-pro-translated-version",
