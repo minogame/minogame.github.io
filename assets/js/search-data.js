@@ -23,29 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/2024-05-14-cv2llm-en/";
-        
-      },
-    },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/2024-01-24-rebuttal-en/";
-        
-      },
-    },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
+        },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
       
         title: "Nanshan Jokes Collection (Gemini 2.5 Pro Translated Version)",
       
@@ -111,9 +89,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/coinb-cn/";
         
       },
-    },{id: "post-large-models-and-coin-minting",
+    },{id: "post-large-models-and-coin-minting-gemini-2-5-pro-translated-version",
       
-        title: "Large Models and Coin Minting",
+        title: "Large Models and Coin Minting (Gemini 2.5 Pro Translated Version)",
       
       description: "Mai-Haishin · January 05, 2025 22:05 · Guangdong",
       section: "Posts",
@@ -133,9 +111,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/coin-cn/";
         
       },
-    },{id: "post-what-the-heck-is-tom-schaul-39-s-socratic-learning-even-talking-about",
+    },{id: "post-what-the-heck-is-tom-schaul-39-s-socratic-learning-even-talking-about-gemini-2-5-pro-translated-version",
       
-        title: "What the Heck is Tom Schaul&#39;s SOCRATIC LEARNING Even Talking About?",
+        title: "What the Heck is Tom Schaul&#39;s SOCRATIC LEARNING Even Talking About? (Gemini 2.5...",
       
       description: "Mai-Haishin · December 25, 2024 18:51 · Guangdong",
       section: "Posts",
@@ -265,6 +243,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/human-cn/";
         
       },
+    },{id: "post-cv-to-llm-please-understand-gpt-through-the-worldview-of-reinforcement-learning-gemini-2-5-pro-translated-version",
+      
+        title: "CV to LLM, Please Understand GPT Through the Worldview of Reinforcement Learning (Gemini...",
+      
+      description: "Mai-Haishin · May 14, 2024 18:05・Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/cv2llm-en/";
+        
+      },
     },{id: "post-cv转llm-请用强化学习的世界观理解gpt",
       
         title: "CV转LLM：请用强化学习的世界观理解GPT",
@@ -340,6 +329,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/align-cn/";
+        
+      },
+    },{id: "post-scar-literature-from-reviewing-cvpr-continued-on-the-metaphysics-of-rebuttal-gemini-2-5-pro-translated-version",
+      
+        title: "Scar Literature from Reviewing CVPR (Continued) - On the Metaphysics of Rebuttal (Gemini...",
+      
+      description: "Mai-Haishin · January 24, 2024 18:49・Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/rebuttal-en/";
         
       },
     },{id: "post-审稿cvpr而致的伤痕文学-续-关于rebuttal的形而上学",
