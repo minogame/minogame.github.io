@@ -23,7 +23,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2024-05-14-cv2llm-en/";
+        
+      },
+    },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2024-01-24-rebuttal-en/";
+        
+      },
+    },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
       
         title: "Nanshan Jokes Collection (Gemini 2.5 Pro Translated Version)",
       
@@ -177,6 +199,127 @@ ninja.data = [{
           window.location.href = "/blog/2024/coding1-cn/";
         
       },
+    },{id: "post-reflections-and-private-musings-after-18-months-in-the-large-model-pit-gemini-2-5-pro-translated-version",
+      
+        title: "Reflections and Private Musings After 18 Months in the Large Model Pit (Gemini...",
+      
+      description: "Mai-Haishin · August 30, 2024 20:06・Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/18months-en/";
+        
+      },
+    },{id: "post-入坑大模型18个月的反思与贩私",
+      
+        title: "入坑大模型18个月的反思与贩私",
+      
+      description: "蚂蚁海星 · 2024年08月30日 20:06・广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/18months-cn/";
+        
+      },
+    },{id: "post-there-39-s-no-such-thing-as-a-natively-multimodal-model-gemini-2-5-pro-translated-version",
+      
+        title: "There&#39;s No Such Thing as a Natively Multimodal Model (Gemini 2.5 Pro Translated...",
+      
+      description: "Mai-Haishin · July 18, 2024 12:50・Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/naivemm-en/";
+        
+      },
+    },{id: "post-不存在什么原生多模态模型",
+      
+        title: "不存在什么原生多模态模型",
+      
+      description: "蚂蚁海星 · 2024年07月18日 12:50・广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/naivemm-cn/";
+        
+      },
+    },{id: "post-labor-intensive-large-models-have-no-future-gemini-2-5-pro-translated-version",
+      
+        title: "Labor-Intensive Large Models Have No Future (Gemini 2.5 Pro Translated Version)",
+      
+      description: "Mai-Haishin · July 18, 2024 12:49・Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/human-en/";
+        
+      },
+    },{id: "post-人力密集型大模型没有前途",
+      
+        title: "人力密集型大模型没有前途",
+      
+      description: "蚂蚁海星 · 2024年07月18日 12:49・广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/human-cn/";
+        
+      },
+    },{id: "post-cv转llm-请用强化学习的世界观理解gpt",
+      
+        title: "CV转LLM：请用强化学习的世界观理解GPT",
+      
+      description: "蚂蚁海星 · 2024年05月14日 18:05・广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/cv2llm-cn/";
+        
+      },
+    },{id: "post-the-world-model-gemini-2-5-pro-translated-version",
+      
+        title: "The World Model (Gemini 2.5 Pro Translated Version)",
+      
+      description: "Mai-Haishin · March 14, 2024 16:41 · Guangdong",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/worldmodel-en/";
+        
+      },
+    },{id: "post-世界模型九宫格",
+      
+        title: "世界模型九宫格",
+      
+      description: "蚂蚁海星 · 2024年03月14日 16:41 · 广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/worldmodel-cn/";
+        
+      },
+    },{id: "post-why-china-39-s-ai-development-comprehensively-lags-behind-the-us-pick-your-favorite-reason-gemini-2-5-pro-translated-version",
+      
+        title: "Why China&#39;s AI Development Comprehensively Lags Behind the US - Pick Your Favorite...",
+      
+      description: "Mai-Haishin · February 23, 2024 20:54・Beijing",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/reason-en/";
+        
+      },
+    },{id: "post-总有一款适合你的-为什么中国ai发展全面落后美国",
+      
+        title: "总有一款适合你的“为什么中国AI发展全面落后美国”",
+      
+      description: "蚂蚁海星 · 2024年02月23日 20:54・北京",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/reason-cn/";
+        
+      },
     },{id: "post-interpretations-and-reflections-on-ai-alignment-gemini-2-5-pro-translated-version",
       
         title: "Interpretations and Reflections on AI Alignment (Gemini 2.5 Pro Translated Version)",
@@ -197,6 +340,39 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/align-cn/";
+        
+      },
+    },{id: "post-审稿cvpr而致的伤痕文学-续-关于rebuttal的形而上学",
+      
+        title: "审稿CVPR而致的伤痕文学（续）：关于Rebuttal的形而上学",
+      
+      description: "蚂蚁海星 · 2024年01月24日 18:49・广东",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/rebuttal-cn/";
+        
+      },
+    },{id: "post-academic-utopia-lop-nor-2333-institute-gemini-2-5-pro-translated-version",
+      
+        title: "Academic Utopia - Lop Nor 2333 Institute (Gemini 2.5 Pro Translated Version)",
+      
+      description: "Mai-Haishin · January 21, 2024 17:47・Beijing",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/luobupo-en/";
+        
+      },
+    },{id: "post-学术理想国-罗布泊2333所",
+      
+        title: "学术理想国-罗布泊2333所",
+      
+      description: "蚂蚁海星 · 2024年01月21日 17:47・北京",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/luobupo-cn/";
         
       },
     },{id: "post-scar-literature-from-reviewing-cvpr-the-decline-of-top-conferences-and-the-emptiness-of-papers-gemini-2-5-pro-translated-version",
