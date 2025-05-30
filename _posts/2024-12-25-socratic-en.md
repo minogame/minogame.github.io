@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What the Heck is Tom Schaul's SOCRATIC LEARNING Even Talking About?
+title: What the Heck is Tom Schaul's SOCRATIC LEARNING Even Talking About? (Gemini 2.5 Pro Translated Version)
 date: 2024-12-25 18:51:00
 description: Mai-Haishin · December 25, 2024 18:51 · Guangdong
 tags: philosophy

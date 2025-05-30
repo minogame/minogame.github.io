@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scar Literature from Reviewing CVPR (Continued): On the Metaphysics of Rebuttal (Gemini 2.5 Pro Translated Version)
+title: Scar Literature from Reviewing CVPR (Continued) - On the Metaphysics of Rebuttal (Gemini 2.5 Pro Translated Version)
 date: 2024-01-24 18:49:00
 description: Mai-Haishin · January 24, 2024 18:49・Guangdong
 tags: misc
