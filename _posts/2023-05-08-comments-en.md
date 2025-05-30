@@ -12,7 +12,7 @@ Of course, the heat surrounding this issue has long since passed; after April 11
 
 Regarding these administrative measures (this draft for solicitation of comments), criticisms abound, whether from a purely technical or legislative perspective. However, I stand up today to say it is very bad from a metaphysical standpoint, specifically concerning the essential meaning of the "provider" it seeks to regulate. In other words, I believe this draft for solicitation of comments doesn't even clearly state who the "provider" it intends to manage actually is, yet it directly wields a big stick to manage them. This clearly commits the characteristically Chinese error of focusing on form over substance. Thus, I've made a diagram to discuss just what a "provider" is.
 
-{% include figure.liquid loading="eager" path="assets/img/20230508/640.webp" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/20230508/640.webp" sizes = "400px" zoomable=true class="img-fluid rounded z-depth-1" %}
 
 Setting aside the more fundamental general infrastructure, and looking only at the chain specialized for "content generation products," providers can be roughly divided into three modules:
 

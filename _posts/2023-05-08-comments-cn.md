@@ -12,7 +12,7 @@ categories: Chinese
 
 对于这个管理办法（的征求意见稿），批评自然是很多的，无论从纯技术的角度或者立法的角度，但是我今天站出来说它很糟糕，是要从形上学的角度，来讨论一下其中所约束的“提供者”的本质意义是什么。换句话来说，我认为这个征求意见稿中，对于他要管理的“提供者”到底是谁都讲不清楚，就直接伸出大棒去管理，这明显犯了有中国特色的只讲形式不究实质的错误。于是我便做了这么一个图来讨论，到底什么是“提供者”。
 
-{% include figure.liquid loading="eager" path="assets/img/20230508/640.webp" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/20230508/640.webp" sizes = "400px" zoomable=true class="img-fluid rounded z-depth-1" %}
 
 抛开更为底层的通用基础设施，仅从特化至“内容生成产品”的链路来看，提供者大致可以分为三个模块：
 
