@@ -15,10 +15,10 @@ The article's title simultaneously expresses two moods: one with a question mark
 
 Firstly, regarding the content expressed in this paper, in short, it unfolds a series of speculations based on the core question: "Do you believe you can fly by stepping on your left foot with your right foot, and then your right with your left?" Then Tom says, he believes, but it has to be done according to his instructions:
 
-1.  Stepping left-foot-on-right-foot can only happen in a closed system that abides by basic laws. Tom handpicked language as this feasible closed system, naturally supporting LLMs ascending to heaven within it.
+1. Stepping left-foot-on-right-foot can only happen in a closed system that abides by basic laws. Tom handpicked language as this feasible closed system, naturally supporting LLMs ascending to heaven within it.
     The specific operation is: we use the left foot to build an interaction protocol platform, and the right foot transforms into a scoring function to take off. Then, never mind what Wittgenstein actually meant; just treat this left-foot-on-right-foot thing as a "language game." Otherwise, if there are deviations in understanding later, you'll have to take responsibility yourselves.
-2.  Next, the language game must satisfy two conditions: first, it must be battle-hardened, preferably with some elusive meta-game that can provide "hot topics" or buzz for this system; second, it must improve its own knowledge level and know how to evaluate if a game is useful (meta-critic).
-3.  Finally, we also need to pay attention to the direction of this left-foot-on-right-foot progression. We can't let the model quietly overfit and then criticize it. Of course, such open problems are left for everyone in the industry to solve. He (Tom) will write new articles to state his position then.
+2. Next, the language game must satisfy two conditions: first, it must be battle-hardened, preferably with some elusive meta-game that can provide "hot topics" or buzz for this system; second, it must improve its own knowledge level and know how to evaluate if a game is useful (meta-critic).
+3. Finally, we also need to pay attention to the direction of this left-foot-on-right-foot progression. We can't let the model quietly overfit and then criticize it. Of course, such open problems are left for everyone in the industry to solve. He (Tom) will write new articles to state his position then.
 
 If you still feel bewildered after reading my interpretation of the paper's content, then that's fine; you've already grasped the core of the paper. Tom's original intention was probably to provide a grander, framework-like summary for current concepts such as search trees, self-feedback, synthetic data, or open-endedness[1]. Its purpose is roughly to provide an "-ism" for support when DeepMind creates big news someday in the not-too-distant future (Of course, if you can feel the call of ASI within it, then please proceed along those lines).
 
@@ -35,4 +35,5 @@ Finally, those open-ended problems themselves are the core of the left-foot-on-r
 In closing, I actually still think he (Tom Schaul) wrote it well. At least he thought about it and expressed it. When our industry can also fully think and express, then I can peacefully become an "edge-ball streamer" (a streamer who creates borderline/risqué content).
 
 **Reference**
-1.  ^Open-Endedness is Essential for Artificial Superhuman Intelligence https://arxiv.org/pdf/2406.04268
+
+1. ^Open-Endedness is Essential for Artificial Superhuman Intelligence <https://arxiv.org/pdf/2406.04268>

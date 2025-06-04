@@ -34,4 +34,5 @@ categories: Chinese
 写在最后，其实我还是觉得他写得好，好歹人家思考了，表达了。什么时候我们的业界也能充分的思考了，表达了，那我也就可以安心的去做擦边主播了。
 
 **参考**
-1. ^Open-Endedness is Essential for Artificial Superhuman Intelligence https://arxiv.org/pdf/2406.04268
+
+1. ^Open-Endedness is Essential for Artificial Superhuman Intelligence <https://arxiv.org/pdf/2406.04268>

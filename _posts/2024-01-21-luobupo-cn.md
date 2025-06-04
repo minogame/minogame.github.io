@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 学术理想国-罗布泊2333所
+title: 学术理想国 - 罗布泊2333所
 date: 2024-01-21 17:47
 description: 蚂蚁海星 · 2024年01月21日 17:47・北京
 tags: misc
