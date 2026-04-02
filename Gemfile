@@ -21,6 +21,9 @@ group :jekyll_plugins do
     gem 'terser'
     gem 'unicode_utils'
     gem 'webrick'
+    gem "observer"
+    gem "observer"
+    gem "ostruct"
 end
 group :other_plugins do
     gem 'css_parser'
