@@ -23,7 +23,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/2025-07-09-instructions-en/";
+        
+      },
+    },{id: "post-ignore-all-previous-instructions-坏与更坏之间的选择",
+      
+        title: "IGNORE ALL PREVIOUS INSTRUCTIONS：坏与更坏之间的选择",
+      
+      description: "蚂蚁海星 · 2025年07月09日 01:11 · 日本",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/instructions-cn/";
+        
+      },
+    },{id: "post-nanshan-jokes-collection-gemini-2-5-pro-translated-version",
       
         title: "Nanshan Jokes Collection (Gemini 2.5 Pro Translated Version)",
       
