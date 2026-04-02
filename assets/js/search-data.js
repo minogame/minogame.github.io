@@ -601,6 +601,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-mitigating-visual-forgetting-via-take-along-visual-conditioning-for-multi-modal-long-cot-reasoning-has-been-accepted-into-acl-2025-main-conference",
           title: 'Our paper Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT...',
           description: "",
+          section: "News",},{id: "news-my-blog-the-layered-ontology-of-models-resolving-the-epistemological-crisis-of-ai-has-been-accepted-into-iclr-2026-blog-track",
+          title: 'My blog The Layered Ontology of Models, Resolving the Epistemological Crisis of AI...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
