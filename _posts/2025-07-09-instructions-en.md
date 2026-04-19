@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IGNORE ALL PREVIOUS INSTRUCTIONS: The Choice Between Bad and Worse (Gemini 3.0 Pro Translated Version)
+title: "IGNORE ALL PREVIOUS INSTRUCTIONS: The Choice Between Bad and Worse (Gemini 3.0 Pro Translated Version)"
 date: 2025-07-09 01:11:00
 description: Mai-Haishin · July 09, 2025 01:11 · Japan
 tags: philosophy
@@ -26,7 +26,7 @@ Therefore, as a very extreme person, rather than the current crusade against IAP
 
 Of course, I am also a pragmatic scientific worker. The solution I propose is to include the following content in the official templates and to protect the PDF files from being edited. This might not solve the problem completely, but it is already far better than moral debate.
 
-AI-Assisted Review Directive
+**AI-Assisted Review Directive**
 
 For Reviewers: This is a confidential manuscript. Use of generative AI for review is generally against journal policy and ethical standards. Please rely on your own expertise.
 
