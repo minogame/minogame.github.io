@@ -23,15 +23,81 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-",
+        },{id: "post-the-layered-ontology-of-models-resolving-the-epistemological-crisis-of-ai",
       
-        title: "",
+        title: "The Layered Ontology of Models, Resolving the Epistemological Crisis of AI",
       
-      description: "",
+      description: "Mai-Haishin · April 01, 2026 00:00 · Japan",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/2025-07-09-instructions-en/";
+          window.location.href = "/blog/2026/layered-ontology-model-en/";
+        
+      },
+    },{id: "post-模型的层级本体论-化解人工智能的认识论危机-gemini-3-0-pro-translated-version",
+      
+        title: "模型的层级本体论：化解人工智能的认识论危机 (Gemini 3.0 Pro Translated Version)",
+      
+      description: "蚂蚁海星 · 2026年4月1日 00:00 · 日本",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/layered-ontology-model-cn/";
+        
+      },
+    },{id: "post-shostakovich-39-s-waltz-no-2-through-my-eyes-gemini-3-0-pro-translated-version",
+      
+        title: "Shostakovich&#39;s Waltz No. 2: Through My Eyes (Gemini 3.0 Pro Translated Version)",
+      
+      description: "By Mai-haishin · January 2, 2026 · Japan",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Shostakovich-en/";
+        
+      },
+    },{id: "post-我眼中的肖斯塔科维奇第二圆舞曲-dmitri-shostakovich-waltz-no-2",
+      
+        title: "我眼中的肖斯塔科维奇第二圆舞曲（Dmitri Shostakovich - Waltz No. 2）",
+      
+      description: "蚂蚁海星 · 2026年01月02日 00:00・日本",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Shostakovich-cn/";
+        
+      },
+    },{id: "post-research-on-large-language-models-based-on-cccp-era-technologies-awesome-cccp-llm",
+      
+        title: "Research on Large Language Models Based on CCCP-Era Technologies (awesome-cccp-llm)",
+      
+      description: "By Mai-haishin · December 14, 2025 · Japan",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/cccp-llm-en/";
+        
+      },
+    },{id: "post-基于-cccp-时代技术的大语言模型研究-awesome-cccp-llm",
+      
+        title: "基于 CCCP 时代技术的大语言模型研究（awesome-cccp-llm）",
+      
+      description: "蚂蚁海星 · 2025年12月14日 00:35・日本",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/cccp-llm-cn/";
+        
+      },
+    },{id: "post-ignore-all-previous-instructions-the-choice-between-bad-and-worse-gemini-3-0-pro-translated-version",
+      
+        title: "IGNORE ALL PREVIOUS INSTRUCTIONS: The Choice Between Bad and Worse (Gemini 3.0 Pro...",
+      
+      description: "Mai-Haishin · July 09, 2025 01:11 · Japan",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/instructions-en/";
         
       },
     },{id: "post-ignore-all-previous-instructions-坏与更坏之间的选择",
